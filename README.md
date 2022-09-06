@@ -9,11 +9,20 @@ Je suis un grand passionné d'informatique et plus particulièrement de dévelop
 
 # Statistiques
 ## Framework / Langages
-<img src="./assets/images/artifactory.png" alt ="Artifactory" title="Artifactory"/>&nbsp;&nbsp; 
-<img src="./assets/images/git.png" alt ="Git" title="Git"/>&nbsp;&nbsp; 
 <img src="./assets/images/maven.png" alt ="Maven" title="Maven"/>&nbsp;&nbsp; 
+<img src="./assets/images/node.png" alt ="Node" title="Node"/>&nbsp;&nbsp; 
+<img src="./assets/images/java.png" alt ="Java" title="Java"/>&nbsp;&nbsp; 
+<img src="./assets/images/js.png" alt ="JS" title="JS"/>&nbsp;&nbsp; 
+<img src="./assets/images/react.png" alt ="React" title="React"/>&nbsp;&nbsp; 
+<img src="./assets/images/laravel.png" alt ="Laravel" title="Laravel"/>&nbsp;&nbsp; 
+
+## Outils
+
+<img src="./assets/images/artifactory.png" alt ="Artifactory" title="Artifactory"/>&nbsp;&nbsp; 
 <img height="32" width="32" src="./assets/images/npm.svg" alt ="Npm" title="Npm"/>&nbsp;&nbsp; 
 <img src="./assets/images/docker.png" alt ="Docker" title="Docker"/>&nbsp;&nbsp; 
+<img src="./assets/images/git.png" alt ="Git" title="Git"/>&nbsp;&nbsp; 
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=philippart-s&theme=radical&hide_langs_below=8)
