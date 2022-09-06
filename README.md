@@ -5,9 +5,6 @@ Je suis un grand passionné d'informatique et plus particulièrement de dévelop
 
 # Compétences
 
-
-
-# Statistiques
 ## Framework / Langages
 <img src="./assets/images/maven.png" alt ="Maven" title="Maven"/>&nbsp;&nbsp; 
 <img height="32" width="32" src="./assets/images/node.png" alt ="Node" title="Node"/>&nbsp;&nbsp; 
@@ -24,6 +21,7 @@ Je suis un grand passionné d'informatique et plus particulièrement de dévelop
 <img height="32" width="32" src="./assets/images/git.png" alt ="Git" title="Git"/>&nbsp;&nbsp; 
 
 
+# Statistiques
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XiliTra&theme=radical&hide_langs_below=8)
 ![](https://github-readme-stats.vercel.app/api?username=XiliTra&show_icons=true&theme=radical&count_private=true)
