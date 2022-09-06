@@ -9,9 +9,9 @@ Je suis un grand passionné d'informatique et plus particulièrement de dévelop
 
 # Statistiques
 ## Framework / Langages
-<img height="32" width="32" src="./assets/images/maven.png" alt ="Maven" title="Maven"/>&nbsp;&nbsp; 
+<img src="./assets/images/maven.png" alt ="Maven" title="Maven"/>&nbsp;&nbsp; 
 <img height="32" width="32" src="./assets/images/node.png" alt ="Node" title="Node"/>&nbsp;&nbsp; 
-<img height="32" width="32" src="./assets/images/java.png" alt ="Java" title="Java"/>&nbsp;&nbsp; 
+<img src="./assets/images/java.png" alt ="Java" title="Java"/>&nbsp;&nbsp; 
 <img height="32" width="32" src="./assets/images/js.png" alt ="JS" title="JS"/>&nbsp;&nbsp; 
 <img height="32" width="32" src="./assets/images/react.png" alt ="React" title="React"/>&nbsp;&nbsp; 
 <img height="32" width="32" src="./assets/images/laravel.png" alt ="Laravel" title="Laravel"/>&nbsp;&nbsp; 
