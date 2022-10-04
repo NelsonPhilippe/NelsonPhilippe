@@ -1,9 +1,13 @@
-# Présentation
+# Presentation
 
-Hey :v: , je me présente, Nelson 20 ans, spécialisé dans le développement d'application Java. Débutant en développement de site web.
-Je suis un grand passionné d'informatique et plus particulièrement de développement en tout genre (Application, Site Web, ...).
+Hey :v:, i introduce myself, Nelson 20 years, my speciality is th Software Programing in Java language. I also new beginner in Web Programing.
+I practice the Java since 6 years, i have differents experience on freelancing & in enterprise (Startup & Stages)
 
-# Compétences
+I have participate during the years 2021/2022 an training course of web developers & mobile developers, actually i participate other formation Software Developers. 
+
+# Skills
+
+
 
 ## Framework / Langages
 <img src="./assets/images/maven.png" alt ="Maven" title="Maven"/>&nbsp;&nbsp; 
