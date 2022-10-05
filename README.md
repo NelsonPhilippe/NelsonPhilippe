@@ -1,4 +1,10 @@
-# :wave: Presentation
+---
+
+<div align="center">
+    <img src="assets/images/presentation.gif">
+</div>
+
+---
 
 Hey :v:, i introduce myself, Nelson 20 years, my speciality is th Software Programing in Java language. I also new beginner in Web Programing.
 I practice the Java since 6 years, I have different experience on freelancing & in enterprise (Startup & Stages)
@@ -11,9 +17,13 @@ My passion? I live for the code, I drink the knowledge & I love jap animation.
     <img src="assets/images/kaneki-tokyo-ghoul.gif">
 </div>
 
-___
+---
 
-# :dart: Skills
+<div align="center">
+    <img src="assets/images/skills.gif">
+</div>
+
+---
 
 ## 🔭 Framework / Languages
 
@@ -31,7 +41,14 @@ ___
 | PHP          | :star: | :star: | :star:  |              |      |
 | Laravel      | :star: |        |         |              |      |
 
-# Stats
+---
+
+<div align="center">
+    <img src="assets/images/stats.gif">
+</div>
+
+
+---
 
 ![](https://github-readme-stats.vercel.app/api?username=XiliTra&show_icons=true&theme=radical&count_private=true)
 
