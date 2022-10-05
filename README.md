@@ -17,7 +17,7 @@ ___
 
 ## 🔭 Framework / Languages
 
-> :chart_with_upwards_trend: My working Level
+**:chart_with_upwards_trend: My working Level**
 
 
 | Technologies | ???    | Noobs  | Not bad | good players | Gods |
