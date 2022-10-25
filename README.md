@@ -47,14 +47,13 @@ My passion? I live for the code, I drink the knowledge & I love jap animation.
     <img src="assets/images/stats.gif">
 </div>
 
-
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=XiliTra&show_icons=true&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=NelsonPhilippe&show_icons=true&theme=radical&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XiliTra&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonPhilippe&theme=radical&hide_langs_below=8)
 
 
 <div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=xilitra&theme=github"/>
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=NelsonPhilippe&theme=github"/>
 </div>
