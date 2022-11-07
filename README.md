@@ -59,7 +59,7 @@ My passion? I live for the code, I drink the knowledge & I love jap animation.
 </div>
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=NelsonPhilippe&theme=tokyonight&locale=fr)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=NelsonPhilippe&theme=tokyonight&locale=fr)
 </div>
 
 ## Badge
