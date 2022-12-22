@@ -53,7 +53,7 @@ My passion? I live for the code, I drink the knowledge & I love jap animation.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonPhilippe&theme=radical&hide_langs_below=8)
 
-[![Codewars](https://www.codewars.com/users/Hachemi/badges/large)](https://www.codewars.com/users/NelsonPhilippe)
+[![Codewars](https://www.codewars.com/users/NelsonPhilippe/badges/large)](https://www.codewars.com/users/NelsonPhilippe)
 
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=NelsonPhilippe&theme=github"/>
