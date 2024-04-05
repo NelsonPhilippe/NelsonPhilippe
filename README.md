@@ -7,7 +7,7 @@
 ---
 
 Hey :v:, i introduce myself, Nelson 20 years, my speciality is th Software Programing in Java language. I also new beginner in Web Programing.
-I practice the Java since 6 years, I have different experience on freelancing & in enterprise (Startup & Stages)
+I practice the Java since 7 years, I have different experience on freelancing & in enterprise (Startup & Stages)
 
 I have participated during the years 2021/2022 a training course of web developers & mobile developers, actually i participate other formation Software Developers. 
 
